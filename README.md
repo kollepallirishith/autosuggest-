@@ -1,8 +1,8 @@
-Certainly! Here's a detailed description for your AutoCorrectGUI project, which you can use for your GitHub repository:
+
 
 ---
 
-# AutoCorrectGUI
+# AutoSuggest and Autocorrect
 
 AutoCorrectGUI is a Python-based application that provides a user-friendly graphical interface for auto-correcting sentences using a trie data structure. The application suggests corrections for misspelled words based on a predefined dictionary, allowing users to select the best replacement or keep the original word. The corrected sentences can then be saved to a file.
 
@@ -43,7 +43,6 @@ AutoCorrectGUI is a Python-based application that provides a user-friendly graph
    ```
 
 ## Project Structure
-
 - `autocorrect_gui.py`: Main application script.
 - `dict.txt`: Dictionary file containing a list of valid words.
 - `output.txt`: File where modified sentences are saved.
