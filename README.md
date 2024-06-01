@@ -43,7 +43,7 @@ AutoCorrectGUI is a Python-based application that provides a user-friendly graph
    ```
 
 ## Project Structure
-- `autocorrect_gui.py`: Main application script.
+- `autosuggest.py`: Main application script.
 - `dict.txt`: Dictionary file containing a list of valid words.
 - `output.txt`: File where modified sentences are saved.
 
