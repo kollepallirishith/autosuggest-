@@ -8,7 +8,7 @@ AutoCorrectGUI is a Python-based application that provides a user-friendly graph
 
 ## Features
 
-- **Graphical User Interface (GUI):** Built with Tkinter, providing an easy-to-use interface for entering and modifying sentences.
+- **Graphical User Interface (GUI):** Built with Tkinter, providing an easy-to-use interface for entering and modifying  sentences.
 - **Trie Data Structure:** Efficiently stores and searches words from a dictionary.
 - **Word Suggestions:** Provides suggestions for misspelled words and allows users to choose the correct word.
 - **Persistent Storage:** Saves the modified sentences to a file for later reference.
